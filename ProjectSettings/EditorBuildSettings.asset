@@ -29,3 +29,13 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/2DGamekit/Scenes/UI/Loading.unity
     guid: ebc4647ff02971c4ba1b207af066be4d
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/Utilities/level 1 (tutorial.unity
+    guid: a47a94a9b3a10394ebf53e953f6fc158
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/Utilities/second level.unity
+    guid: a5d145e92c046436daa202f6401c25e4
+  - enabled: 1
+    path: Assets/2DGamekit/Scenes/Utilities/boss level.unity
+    guid: e6816092480f044c0ba2c9802dcf3445
+  m_configObjects: {}
