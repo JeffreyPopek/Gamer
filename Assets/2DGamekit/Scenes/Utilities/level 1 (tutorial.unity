@@ -2239,11 +2239,11 @@ Prefab:
       objectReference: {fileID: 0}
     - target: {fileID: 4212235226361802, guid: 73360cdb4e1e7ed4897690f9d57fd0eb, type: 2}
       propertyPath: m_LocalPosition.y
-      value: -0.235
+      value: 0.36
       objectReference: {fileID: 0}
     - target: {fileID: 4212235226361802, guid: 73360cdb4e1e7ed4897690f9d57fd0eb, type: 2}
       propertyPath: m_LocalPosition.x
-      value: 0
+      value: -4.43
       objectReference: {fileID: 0}
     - target: {fileID: 114774311958850474, guid: 73360cdb4e1e7ed4897690f9d57fd0eb,
         type: 2}
@@ -7221,7 +7221,7 @@ Prefab:
     - target: {fileID: 114634906093864604, guid: b38e9ca90e4033c4bb4554a41a283698,
         type: 2}
       propertyPath: newSceneName
-      value: boss level
+      value: second level
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: b38e9ca90e4033c4bb4554a41a283698, type: 2}
