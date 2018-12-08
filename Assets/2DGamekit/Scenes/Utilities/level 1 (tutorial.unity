@@ -233,6 +233,17 @@ Prefab:
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 2d2745d2a8668e644a921a4848c9bc90, type: 2}
   m_IsPrefabAsset: 0
+--- !u!1 &8636687 stripped
+GameObject:
+  m_CorrespondingSourceObject: {fileID: 1974393944470824, guid: 2d2745d2a8668e644a921a4848c9bc90,
+    type: 2}
+  m_PrefabInternal: {fileID: 8636686}
+--- !u!114 &8636688 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 114157640717073608, guid: 2d2745d2a8668e644a921a4848c9bc90,
+    type: 2}
+  m_PrefabInternal: {fileID: 8636686}
+  m_Script: {fileID: 11500000, guid: 350c9c780c05c844dacc5fd1e27a7d12, type: 3}
 --- !u!1 &39980387
 GameObject:
   m_ObjectHideFlags: 0
@@ -463,6 +474,26 @@ Prefab:
         type: 2}
       propertyPath: inventoryEvents.Array.data[0].key
       value: key
+      objectReference: {fileID: 0}
+    - target: {fileID: 114169879917093252, guid: 323c55112667548ffb45c5681d95a913,
+        type: 2}
+      propertyPath: OnHealthSet.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 8636687}
+    - target: {fileID: 114169879917093252, guid: 323c55112667548ffb45c5681d95a913,
+        type: 2}
+      propertyPath: OnHealthSet.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: 
+      objectReference: {fileID: 0}
+    - target: {fileID: 114169879917093252, guid: 323c55112667548ffb45c5681d95a913,
+        type: 2}
+      propertyPath: OnHealthSet.m_PersistentCalls.m_Calls.Array.data[1].m_Target
+      value: 
+      objectReference: {fileID: 8636688}
+    - target: {fileID: 114169879917093252, guid: 323c55112667548ffb45c5681d95a913,
+        type: 2}
+      propertyPath: OnHealthSet.m_PersistentCalls.m_Calls.Array.data[1].m_MethodName
+      value: ChangeHitPointUI
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 323c55112667548ffb45c5681d95a913, type: 2}
